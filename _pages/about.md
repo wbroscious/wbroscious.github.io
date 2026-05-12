@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently working on an eBay bargaining project with Professor Lones Smith at the University of Wisconsin-Madison. I have previously worked at NERA, CALL-ECL, and Pacific Economics Group.
+I am currently working on an eBay bargaining project with Professor Lones Smith at the University of Wisconsin-Madison. I have previously worked at NERA, CALL-ECL, Pacific Economics Group, and the U.S. Department of the Treasury under Janet Yellen.
