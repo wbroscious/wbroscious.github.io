@@ -27,4 +27,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently working on an eBay bargaining project with Professor Lones Smith at the University of Wisconsin-Madison. I have previously worked at NERA, CALL-ECL, Pacific Economics Group, and the U.S. Department of the Treasury under Laura Feiveson. Also, I have conducted research projects with professor Andrew Stevens and Erwan Quintin.
+I am currently working on an eBay bargaining project with Professor Lones Smith at the University of Wisconsin-Madison. I have previously worked at NERA, CALL-ECL, Pacific Economics Group, and the U.S. Department of the Treasury under Laura Feiveson. Also, I have conducted research projects with professors Andrew Stevens and Erwan Quintin.
