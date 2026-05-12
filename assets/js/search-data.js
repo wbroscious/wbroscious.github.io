@@ -521,6 +521,13 @@ ninja.data = [{
           window.open("mailto:%62%72%6F%73%63%69%6F%75%73@%77%69%73%63.%65%64%75", "_blank");
         },
       },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/wyatt-broscious/", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
